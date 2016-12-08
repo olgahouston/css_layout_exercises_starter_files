@@ -1,0 +1,42 @@
+.container {
+  width: 800px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 0;
+}
+
+.upperBoxes {
+  height: 200px;
+  width: 50%;
+  display: inline-block;
+  font-size: 0;
+  border: 1px solid black;
+}
+
+.lowerBoxes {
+  height: 300px;
+  width: 33.33%;
+  display: inline-block;
+  font-size: 0;
+}
+
+.greenBox {
+   background-color: green;
+}
+
+.blueBox {
+   background-color: blue;
+}
+
+.greyBox {
+   background-color: grey;
+}
+
+.blackBox {
+   background-color: black;
+}
+
+.orangeBox {
+   background-color: orange;
+}
